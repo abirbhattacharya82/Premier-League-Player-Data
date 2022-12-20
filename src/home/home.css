@@ -1,0 +1,16 @@
+.heading
+{
+    font-size: 200%;
+    font-weight: bold;
+    color: #000;
+    border: 1px solid #000;
+    text-align: center;
+    padding: 1%;
+}
+.subheading
+{
+    font-size: 150%;
+    color: #000;
+    text-align: center;
+    padding: 1%;
+}
