@@ -1,9 +1,12 @@
 import React from "react";
 import './home.css';
-import db from '../model/all_players.csv';
+import Results from "../results/results";
+import { useState } from "react";
+
 const Home = () => {
+    const [flag, setFlag] = useState(false);
     return (
-        <div className="home">
+        <div className="home" id="home">
             <div className="heading">
                 Premier League Player Data
             </div>
@@ -68,11 +71,12 @@ const Home = () => {
                 </div>
                 <button onClick={
                     () => {
-                        console.log(db);
-                        console.log(document.getElementById("team").value);
+                        setFlag(true);
+                        // Results({prop: [document.getElementById('team').value, document.getElementById('position').value, document.getElementById('appearances').value, document.getElementById('goals').value]});
                     }
                 }>check</button>
             </div>
+            {flag ? <Results prop={[document.getElementById('team').value, document.getElementById('position').value, document.getElementById('appearances').value, document.getElementById('goals').value]} /> : null}
         </div>
     );
 }
