@@ -5,6 +5,11 @@ import { useState } from "react";
 
 const Home = () => {
     const [flag, setFlag] = useState(false);
+    const [team, setTeam] = useState("ars");
+    const [position, setPosition] = useState("gk");
+    const [appearances, setAppearances] = useState("opt1");
+    const [goals, setGoals] = useState("opt1");
+
     return (
         <div className="home" id="home">
             <div className="heading">
@@ -20,7 +25,7 @@ const Home = () => {
                     <select name="team" id="team">
                         <option value="ars">Arsenal</option>
                         <option value="mci">Manchester City</option>
-                        <option value="new">New Castle</option>
+                        <option value="newc">New Castle</option>
                         <option value="tot">Tottenham</option>
                         <option value="mnu">Manchester United</option>
                         <option value="liv">Liverpool</option>
@@ -72,11 +77,14 @@ const Home = () => {
                 <button onClick={
                     () => {
                         setFlag(true);
-                        // Results({prop: [document.getElementById('team').value, document.getElementById('position').value, document.getElementById('appearances').value, document.getElementById('goals').value]});
+                        setTeam(document.getElementById("team").value);
+                        setPosition(document.getElementById("position").value);
+                        setAppearances(document.getElementById("appearances").value);
+                        setGoals(document.getElementById("goals").value);
                     }
                 }>check</button>
             </div>
-            {flag ? <Results prop={[document.getElementById('team').value, document.getElementById('position').value, document.getElementById('appearances').value, document.getElementById('goals').value]} /> : null}
+            {flag ? <Results prop={[team,position,appearances,goals]} /> : null}
         </div>
     );
 }
