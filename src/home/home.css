@@ -14,3 +14,32 @@
     text-align: center;
     padding: 1%;
 }
+.input_area
+{
+    display: flex;
+    border: 1px solid black;
+}
+.input_area .select_area
+{
+    width: 30%;
+    padding: 1%;
+}
+.input_area .select_area label
+{
+    font-size: 150%;
+}
+.input_area .select_area select
+{
+    width: 90%;
+    font-size: 130%;
+    outline: none;
+}
+.input_area button
+{
+    width: 20%;
+    font-size: 150%;
+    padding: 1%;
+    background-color: #000;
+    color: #fff;
+    border: 1px solid #000;
+}
