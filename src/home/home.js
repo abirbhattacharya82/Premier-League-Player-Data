@@ -64,7 +64,7 @@ const Home = () => {
                         <option value="eve">Everton</option>
                         <option value="not">Nottingham Forest</option>
                         <option value="sou">Southampton</option>
-                        <option value="wol">Wolverhampton Wolves</option>
+                        <option value="wol">Wolverhampton Wanderers</option>
                     </select>
                 </div>
                 <div className="select_area">
@@ -167,7 +167,11 @@ const Home = () => {
                     }
                 }>check</button>
             </div>
-            <img src={image_name} alt="" />
+            <div className="team_img">
+                <div className="icon">
+                    <img src={image_name} alt="" />
+                </div>
+            </div>
             {flag ? <Results prop={[team,position,appearances,goals]} /> : null}
         </div>
     );
