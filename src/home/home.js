@@ -51,7 +51,7 @@ const Home = () => {
                         <option value="tot">Tottenham</option>
                         <option value="mnu">Manchester United</option>
                         <option value="liv">Liverpool</option>
-                        <option value="bri">Brighton</option>
+                        <option value="bri">Brighton & Hove Albion</option>
                         <option value="che">Chelsea</option>
                         <option value="ful">Fulham</option>
                         <option value="bre">Brentford</option>
