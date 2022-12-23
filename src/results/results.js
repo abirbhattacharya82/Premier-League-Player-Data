@@ -3,7 +3,7 @@ import './results.css';
 import { useState } from "react";
 
 const Results = (props) => {
-    const db=require('../model/player_database.json');
+    const db=require('../model/player_stats.json');
     var all_players_from_team = [];
     if(props.prop[0] === "ars"){
         all_players_from_team = db.filter((player) => player.Club === "Arsenal");
@@ -79,22 +79,54 @@ const Results = (props) => {
     else if(props.prop[1] === "fw"){
         players_with_positions = all_players_from_team.filter((player) => player.Position === "ST" || player.Position === "LW" || player.Position === "RW" || player.Position === "CF" || player.position === "FWD");
     }
-    console.log(players_with_positions);
+
+    var players_with_preffered_foot = [];
+    if(props.prop[2] === "opt1"){
+        players_with_preffered_foot = players_with_positions.filter((player) => player.PreferredFoot === "Left");
+    }
+    else if(props.prop[2] === "opt2"){
+        players_with_preffered_foot = players_with_positions.filter((player) => player.PreferredFoot === "Right");
+    }
+    
+    var final_list = [];
+    if(props.prop[3] === "opt1"){
+        final_list = players_with_preffered_foot.filter((player) => player.Overall > 90);
+    }
+    else if(props.prop[3] === "opt2"){
+        final_list = players_with_preffered_foot.filter((player) => player.Overall > 80 && player.Overall <= 90);
+    }
+    else if(props.prop[3] === "opt3"){
+        final_list = players_with_preffered_foot.filter((player) => player.Overall > 70 && player.Overall <= 80);
+    }
+    else if(props.prop[3] === "opt4"){
+        final_list = players_with_preffered_foot.filter((player) => player.Overall > 60 && player.Overall <= 70);
+    }
+    else if(props.prop[3] === "opt5"){
+        final_list = players_with_preffered_foot.filter((player) => player.Overall > 50 && player.Overall <= 60);
+    }
+    else if(props.prop[3] === "opt6"){
+        final_list = players_with_preffered_foot.filter((player) => player.Overall <= 50);
+    }
+    console.log(final_list);
+
+    
 
     return (
         <div className="results">
-            <div className="team_name">
-                <h1>{props.prop[0]}</h1>
+            <div className="headers">
+                <div className="header">Name</div>
+                <div className="header">Position</div>
+                <div className="header">Overall</div>
+                <div className="header">Preferred Foot</div>
             </div>
-            <div className="team_position">
-                <h1>{props.prop[1]}</h1>
-            </div>
-            <div className="team_appearances">
-                <h1>{props.prop[2]}</h1>
-            </div>
-            <div className="team_goals">
-                <h1>{props.prop[3]}</h1>
-            </div>
+            {final_list.map((player) => (
+                <div className="player">
+                    <div className="player_name">{player.Name}</div>
+                    <div className="player_position">{player.Position}</div>
+                    <div className="player_overall">{player.Overall}</div>
+                    <div className="player_preferred_foot">{player.PreferredFoot}</div>
+                </div>
+            ))}
         </div>
     );
 }

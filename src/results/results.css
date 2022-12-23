@@ -1,0 +1,31 @@
+.headers
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.headers .header
+{
+    color: white;
+    background-color: purple;
+    width: 23%;
+    padding: 1%;
+    font-size: 150%;
+    border: 1px solid white;
+    text-align: center;
+}
+.player
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.player .player_name, .player_position, .player_overall, .player_preferred_foot
+{
+    color: black;
+    width: 23%;
+    padding: 1%;
+    font-size: 150%;
+    border: 1px solid black;
+    text-align: center;
+}
