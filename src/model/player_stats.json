@@ -1,0 +1,4874 @@
+[
+  {
+    "Name": "T. Partey",
+    "Overall": 84,
+    "Position": "CDM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Ødegaard",
+    "Overall": 84,
+    "Position": "CAM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Gabriel Jesus",
+    "Overall": 83,
+    "Position": "ST",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Saka",
+    "Overall": 82,
+    "Position": "LM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "A. Ramsdale",
+    "Overall": 82,
+    "Position": "GK",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Tierney",
+    "Overall": 81,
+    "Position": "LWB",
+    "Club": "Arsenal",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Gabriel",
+    "Overall": 81,
+    "Position": "CB",
+    "Club": "Arsenal",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "W. Saliba",
+    "Overall": 80,
+    "Position": "CB",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Smith Rowe",
+    "Overall": 80,
+    "Position": "CAM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "O. Zinchenko",
+    "Overall": 79,
+    "Position": "CM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "B. White",
+    "Overall": 79,
+    "Position": "CDM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Tomiyasu",
+    "Overall": 79,
+    "Position": "CB",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "G. Xhaka",
+    "Overall": 79,
+    "Position": "CDM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Gabriel Martinelli",
+    "Overall": 78,
+    "Position": "RM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Turner",
+    "Overall": 77,
+    "Position": "GK",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Fábio Vieira",
+    "Overall": 77,
+    "Position": "CAM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "R. Holding",
+    "Overall": 77,
+    "Position": "CB",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Elneny",
+    "Overall": 76,
+    "Position": "CDM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Sambi Lokonga",
+    "Overall": 75,
+    "Position": "CM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Cédric",
+    "Overall": 75,
+    "Position": "RB",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Nelson",
+    "Overall": 73,
+    "Position": "RM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Marquinhos",
+    "Overall": 73,
+    "Position": "LM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "E. Nketiah",
+    "Overall": 73,
+    "Position": "ST",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Pérez",
+    "Overall": 70,
+    "Position": "LB",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "A. Medina",
+    "Overall": 70,
+    "Position": "GK",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Kruspzky",
+    "Overall": 69,
+    "Position": "LM",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Miloc",
+    "Overall": 69,
+    "Position": "CDM",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Lomónaco",
+    "Overall": 68,
+    "Position": "ST",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Pittón",
+    "Overall": 68,
+    "Position": "CM",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "G. Canto",
+    "Overall": 68,
+    "Position": "CB",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "G. Goñi",
+    "Overall": 68,
+    "Position": "CB",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Chimino",
+    "Overall": 68,
+    "Position": "RB",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Rivero",
+    "Overall": 67,
+    "Position": "CDM",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Apaolaza",
+    "Overall": 67,
+    "Position": "ST",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Díaz",
+    "Overall": 66,
+    "Position": "ST",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Navas",
+    "Overall": 66,
+    "Position": "RB",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Antilef",
+    "Overall": 66,
+    "Position": "CAM",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Bigo",
+    "Overall": 65,
+    "Position": "GK",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Ibáñez",
+    "Overall": 65,
+    "Position": "LM",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Smith",
+    "Overall": 64,
+    "Position": "CM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Pombo",
+    "Overall": 64,
+    "Position": "CB",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "L. Marchi",
+    "Overall": 64,
+    "Position": "LWB",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "K. Hein",
+    "Overall": 64,
+    "Position": "GK",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Brochero",
+    "Overall": 64,
+    "Position": "RM",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Cîrjan",
+    "Overall": 62,
+    "Position": "CAM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "I. Gariglio",
+    "Overall": 62,
+    "Position": "CB",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Ideho",
+    "Overall": 61,
+    "Position": "RM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Mohamed",
+    "Overall": 61,
+    "Position": "CAM",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Sánchez",
+    "Overall": 61,
+    "Position": "LM",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Cano",
+    "Overall": 60,
+    "Position": "ST",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "W. Machado",
+    "Overall": 60,
+    "Position": "CDM",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Viveros",
+    "Overall": 59,
+    "Position": "RM",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Báez",
+    "Overall": 59,
+    "Position": "ST",
+    "Club": "Arsenal de Sarandí",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Cozier-Duberry",
+    "Overall": 59,
+    "Position": "LM",
+    "Club": "Arsenal",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "L. Sousa",
+    "Overall": 56,
+    "Position": "LB",
+    "Club": "Arsenal",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "K. De Bruyne",
+    "Overall": 91,
+    "Position": "CM",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Ederson",
+    "Overall": 89,
+    "Position": "GK",
+    "Club": "Manchester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Rúben Dias",
+    "Overall": 88,
+    "Position": "CB",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Haaland",
+    "Overall": 88,
+    "Position": "ST",
+    "Club": "Manchester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Bernardo Silva",
+    "Overall": 88,
+    "Position": "CAM",
+    "Club": "Manchester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "João Cancelo",
+    "Overall": 88,
+    "Position": "LB",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Rodri",
+    "Overall": 87,
+    "Position": "CDM",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Mahrez",
+    "Overall": 86,
+    "Position": "RW",
+    "Club": "Manchester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "A. Laporte",
+    "Overall": 86,
+    "Position": "CB",
+    "Club": "Manchester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "İ. Gündoğan",
+    "Overall": 85,
+    "Position": "CM",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Walker",
+    "Overall": 85,
+    "Position": "RB",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "P. Foden",
+    "Overall": 85,
+    "Position": "CAM",
+    "Club": "Manchester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Grealish",
+    "Overall": 84,
+    "Position": "LW",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Stones",
+    "Overall": 83,
+    "Position": "CB",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Akanji",
+    "Overall": 81,
+    "Position": "CB",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Phillips",
+    "Overall": 81,
+    "Position": "CDM",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Ortega",
+    "Overall": 80,
+    "Position": "GK",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Álvarez",
+    "Overall": 78,
+    "Position": "CAM",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Aké",
+    "Overall": 78,
+    "Position": "CB",
+    "Club": "Manchester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Sergio Gómez",
+    "Overall": 74,
+    "Position": "CAM",
+    "Club": "Manchester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Palmer",
+    "Overall": 67,
+    "Position": "CAM",
+    "Club": "Manchester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Rogers",
+    "Overall": 66,
+    "Position": "RM",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Carson",
+    "Overall": 65,
+    "Position": "GK",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Lewis",
+    "Overall": 61,
+    "Position": "RB",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Knight",
+    "Overall": 60,
+    "Position": "CAM",
+    "Club": "Manchester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "A. Robertson",
+    "Overall": 58,
+    "Position": "CAM",
+    "Club": "Manchester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Wilson-Esbrand",
+    "Overall": 58,
+    "Position": "LB",
+    "Club": "Manchester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "K. Trippier",
+    "Overall": 84,
+    "Position": "RB",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Bruno Guimarães",
+    "Overall": 81,
+    "Position": "CM",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Pope",
+    "Overall": 81,
+    "Position": "GK",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Saint-Maximin",
+    "Overall": 81,
+    "Position": "CAM",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Isak",
+    "Overall": 80,
+    "Position": "ST",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Botman",
+    "Overall": 80,
+    "Position": "CB",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Wilson",
+    "Overall": 79,
+    "Position": "ST",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Almirón",
+    "Overall": 78,
+    "Position": "RM",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "D. Burn",
+    "Overall": 77,
+    "Position": "CB",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Targett",
+    "Overall": 77,
+    "Position": "LB",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Shelvey",
+    "Overall": 77,
+    "Position": "CM",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Schär",
+    "Overall": 77,
+    "Position": "CB",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Wood",
+    "Overall": 76,
+    "Position": "ST",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Fraser",
+    "Overall": 76,
+    "Position": "RM",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Lascelles",
+    "Overall": 75,
+    "Position": "CB",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Willock",
+    "Overall": 75,
+    "Position": "CAM",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Longstaff",
+    "Overall": 74,
+    "Position": "CM",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Manquillo",
+    "Overall": 74,
+    "Position": "RB",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Krafth",
+    "Overall": 74,
+    "Position": "RB",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Ritchie",
+    "Overall": 73,
+    "Position": "RM",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "P. Dummett",
+    "Overall": 73,
+    "Position": "LB",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Murphy",
+    "Overall": 73,
+    "Position": "RM",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Lewis",
+    "Overall": 72,
+    "Position": "LB",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "L. Karius",
+    "Overall": 72,
+    "Position": "GK",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Mikeltadze",
+    "Overall": 70,
+    "Position": "CAM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Jenkinson",
+    "Overall": 67,
+    "Position": "RB",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Gillespie",
+    "Overall": 67,
+    "Position": "GK",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. O'Neill",
+    "Overall": 67,
+    "Position": "CDM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Anderson",
+    "Overall": 67,
+    "Position": "CAM",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Piscopo",
+    "Overall": 66,
+    "Position": "CAM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Thurgate",
+    "Overall": 65,
+    "Position": "CAM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Dartsmelia",
+    "Overall": 64,
+    "Position": "CAM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "S. Muñoz",
+    "Overall": 64,
+    "Position": "ST",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Jurman",
+    "Overall": 63,
+    "Position": "CB",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. McGarry",
+    "Overall": 63,
+    "Position": "LM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Elsey",
+    "Overall": 63,
+    "Position": "CB",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Buhagiar",
+    "Overall": 62,
+    "Position": "RM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Sotirio",
+    "Overall": 62,
+    "Position": "ST",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Hoffman",
+    "Overall": 62,
+    "Position": "LB",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Natta",
+    "Overall": 61,
+    "Position": "CB",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Timmins",
+    "Overall": 61,
+    "Position": "CM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Duncan",
+    "Overall": 61,
+    "Position": "GK",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Bondswell",
+    "Overall": 60,
+    "Position": "LB",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "A. Murphy",
+    "Overall": 60,
+    "Position": "CB",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "D. Stynes",
+    "Overall": 59,
+    "Position": "CAM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Ingham",
+    "Overall": 59,
+    "Position": "RM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Turner-Cooke",
+    "Overall": 59,
+    "Position": "CAM",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Ndiweni",
+    "Overall": 58,
+    "Position": "ST",
+    "Club": "Newcastle United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Grozos",
+    "Overall": 58,
+    "Position": "RM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Goodwin",
+    "Overall": 57,
+    "Position": "ST",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Weier",
+    "Overall": 57,
+    "Position": "GK",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Al-Taay",
+    "Overall": 55,
+    "Position": "CDM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. James",
+    "Overall": 54,
+    "Position": "GK",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Jordan",
+    "Overall": 53,
+    "Position": "CAM",
+    "Club": "Newcastle Jets",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. Kane",
+    "Overall": 89,
+    "Position": "ST",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. Son",
+    "Overall": 89,
+    "Position": "LW",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. Lloris",
+    "Overall": 87,
+    "Position": "GK",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "I. Perišić",
+    "Overall": 84,
+    "Position": "LM",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "P. Højbjerg",
+    "Overall": 83,
+    "Position": "CDM",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Romero",
+    "Overall": 83,
+    "Position": "CB",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Y. Bissouma",
+    "Overall": 81,
+    "Position": "CDM",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Kulusevski",
+    "Overall": 81,
+    "Position": "CAM",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Richarlison",
+    "Overall": 81,
+    "Position": "ST",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Lucas Moura",
+    "Overall": 80,
+    "Position": "RW",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Dier",
+    "Overall": 80,
+    "Position": "CB",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Bentancur",
+    "Overall": 79,
+    "Position": "CDM",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Sánchez",
+    "Overall": 79,
+    "Position": "CB",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Davies",
+    "Overall": 79,
+    "Position": "CB",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Emerson Royal",
+    "Overall": 78,
+    "Position": "RWB",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Lenglet",
+    "Overall": 78,
+    "Position": "CB",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Doherty",
+    "Overall": 77,
+    "Position": "RWB",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Bryan Gil",
+    "Overall": 77,
+    "Position": "CAM",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "O. Skipp",
+    "Overall": 77,
+    "Position": "CDM",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Forster",
+    "Overall": 76,
+    "Position": "GK",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Spence",
+    "Overall": 75,
+    "Position": "RWB",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Sessegnon",
+    "Overall": 75,
+    "Position": "LM",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "R. Sessegnon",
+    "Overall": 75,
+    "Position": "LM",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "D. Spence",
+    "Overall": 75,
+    "Position": "RWB",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Tanganga",
+    "Overall": 74,
+    "Position": "CB",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "P. Sarr",
+    "Overall": 71,
+    "Position": "CM",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Austin",
+    "Overall": 64,
+    "Position": "GK",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. White",
+    "Overall": 64,
+    "Position": "LM",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Bowden",
+    "Overall": 63,
+    "Position": "CAM",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Devine",
+    "Overall": 60,
+    "Position": "ST",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Lyons-Foster",
+    "Overall": 58,
+    "Position": "CB",
+    "Club": "Tottenham Hotspur",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Cristiano Ronaldo",
+    "Overall": 90,
+    "Position": "ST",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Casemiro",
+    "Overall": 89,
+    "Position": "CDM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "De Gea",
+    "Overall": 87,
+    "Position": "GK",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Bruno Fernandes",
+    "Overall": 86,
+    "Position": "CAM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Varane",
+    "Overall": 84,
+    "Position": "CB",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Sancho",
+    "Overall": 84,
+    "Position": "CAM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Antony",
+    "Overall": 82,
+    "Position": "LM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Eriksen",
+    "Overall": 82,
+    "Position": "CM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Martínez",
+    "Overall": 81,
+    "Position": "CDM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "H. Maguire",
+    "Overall": 81,
+    "Position": "CB",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Rashford",
+    "Overall": 81,
+    "Position": "ST",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Wan-Bissaka",
+    "Overall": 80,
+    "Position": "RB",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. McTominay",
+    "Overall": 80,
+    "Position": "CDM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Shaw",
+    "Overall": 80,
+    "Position": "LB",
+    "Club": "Manchester United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "V. Lindelöf",
+    "Overall": 80,
+    "Position": "CDM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Dúbravka",
+    "Overall": 80,
+    "Position": "GK",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Fred",
+    "Overall": 80,
+    "Position": "CM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "A. Martial",
+    "Overall": 80,
+    "Position": "ST",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Malacia",
+    "Overall": 79,
+    "Position": "LWB",
+    "Club": "Manchester United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "D. van de Beek",
+    "Overall": 79,
+    "Position": "CAM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Diogo Dalot",
+    "Overall": 78,
+    "Position": "RB",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Elanga",
+    "Overall": 74,
+    "Position": "RW",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Tuanzebe",
+    "Overall": 74,
+    "Position": "CB",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Williams",
+    "Overall": 73,
+    "Position": "RWB",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "P. Jones",
+    "Overall": 73,
+    "Position": "CB",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Heaton",
+    "Overall": 73,
+    "Position": "GK",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Pellistri",
+    "Overall": 70,
+    "Position": "RM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Bernard",
+    "Overall": 69,
+    "Position": "CB",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Mengi",
+    "Overall": 67,
+    "Position": "CB",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Alejandro Garnacho",
+    "Overall": 64,
+    "Position": "LW",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Shoretire",
+    "Overall": 64,
+    "Position": "CAM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Z. Iqbal",
+    "Overall": 62,
+    "Position": "CAM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Savage",
+    "Overall": 61,
+    "Position": "CM",
+    "Club": "Manchester United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Salah",
+    "Overall": 90,
+    "Position": "RW",
+    "Club": "Liverpool",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "V. van Dijk",
+    "Overall": 90,
+    "Position": "CB",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Alisson",
+    "Overall": 89,
+    "Position": "GK",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Fabinho",
+    "Overall": 87,
+    "Position": "CDM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Alexander-Arnold",
+    "Overall": 87,
+    "Position": "CM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Robertson",
+    "Overall": 87,
+    "Position": "LB",
+    "Club": "Liverpool",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Thiago",
+    "Overall": 86,
+    "Position": "CM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Diogo Jota",
+    "Overall": 85,
+    "Position": "ST",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Matip",
+    "Overall": 84,
+    "Position": "CB",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Díaz",
+    "Overall": 84,
+    "Position": "RM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Henderson",
+    "Overall": 83,
+    "Position": "CM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Roberto Firmino",
+    "Overall": 83,
+    "Position": "CF",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Núñez",
+    "Overall": 82,
+    "Position": "ST",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "I. Konaté",
+    "Overall": 81,
+    "Position": "CB",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Gomez",
+    "Overall": 81,
+    "Position": "CB",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Keïta",
+    "Overall": 81,
+    "Position": "CAM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Arthur",
+    "Overall": 80,
+    "Position": "CM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Milner",
+    "Overall": 78,
+    "Position": "CDM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Oxlade-Chamberlain",
+    "Overall": 77,
+    "Position": "CAM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Tsimikas",
+    "Overall": 77,
+    "Position": "LB",
+    "Club": "Liverpool",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Jones",
+    "Overall": 76,
+    "Position": "CM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Fábio Carvalho",
+    "Overall": 73,
+    "Position": "CAM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Phillips",
+    "Overall": 73,
+    "Position": "CB",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. Elliott",
+    "Overall": 73,
+    "Position": "CAM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Kelleher",
+    "Overall": 73,
+    "Position": "GK",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Díaz",
+    "Overall": 72,
+    "Position": "CM",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Adrián",
+    "Overall": 72,
+    "Position": "GK",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "G. Martirena",
+    "Overall": 70,
+    "Position": "RWB",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. Figueredo",
+    "Overall": 69,
+    "Position": "CAM",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Pereira",
+    "Overall": 69,
+    "Position": "RB",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Medina",
+    "Overall": 69,
+    "Position": "CAM",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "P. González",
+    "Overall": 67,
+    "Position": "RM",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Rivero",
+    "Overall": 67,
+    "Position": "LW",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "S. Romero",
+    "Overall": 66,
+    "Position": "CB",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Vecino",
+    "Overall": 66,
+    "Position": "ST",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "S. Lentinelly",
+    "Overall": 66,
+    "Position": "GK",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Cayetano",
+    "Overall": 65,
+    "Position": "LB",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "G. Pérez",
+    "Overall": 65,
+    "Position": "CB",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Lemos",
+    "Overall": 64,
+    "Position": "CDM",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Ramsay",
+    "Overall": 64,
+    "Position": "RM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Britos",
+    "Overall": 64,
+    "Position": "GK",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "I. Rodríguez",
+    "Overall": 63,
+    "Position": "CB",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Gordon",
+    "Overall": 62,
+    "Position": "RW",
+    "Club": "Liverpool",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Cain",
+    "Overall": 62,
+    "Position": "CAM",
+    "Club": "Liverpool",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "G. Pérez",
+    "Overall": 62,
+    "Position": "CAM",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Poiso",
+    "Overall": 62,
+    "Position": "RB",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Prado",
+    "Overall": 61,
+    "Position": "CB",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "N. Soria",
+    "Overall": 61,
+    "Position": "ST",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Norris",
+    "Overall": 60,
+    "Position": "LB",
+    "Club": "Liverpool",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "R. Hornos",
+    "Overall": 59,
+    "Position": "GK",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Trinidad",
+    "Overall": 59,
+    "Position": "CAM",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "A. Aires",
+    "Overall": 59,
+    "Position": "ST",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "I. Bonifazi",
+    "Overall": 58,
+    "Position": "GK",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Y. López",
+    "Overall": 56,
+    "Position": "CAM",
+    "Club": "Liverpool Fútbol Club",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "P. Estupiñán",
+    "Overall": 79,
+    "Position": "LB",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "L. Dunk",
+    "Overall": 79,
+    "Position": "CB",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Trossard",
+    "Overall": 79,
+    "Position": "LM",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Veltman",
+    "Overall": 78,
+    "Position": "CB",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "P. Groß",
+    "Overall": 77,
+    "Position": "CM",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Undav",
+    "Overall": 77,
+    "Position": "ST",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Robert Sánchez",
+    "Overall": 77,
+    "Position": "GK",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Mac Allister",
+    "Overall": 76,
+    "Position": "CAM",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Mwepu",
+    "Overall": 76,
+    "Position": "CM",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Webster",
+    "Overall": 76,
+    "Position": "CB",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Lamptey",
+    "Overall": 75,
+    "Position": "RWB",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Lamptey",
+    "Overall": 75,
+    "Position": "RWB",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Moder",
+    "Overall": 74,
+    "Position": "CM",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Mitoma",
+    "Overall": 74,
+    "Position": "CAM",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Gilmour",
+    "Overall": 72,
+    "Position": "CM",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. van Hecke",
+    "Overall": 71,
+    "Position": "CB",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Caicedo",
+    "Overall": 70,
+    "Position": "CDM",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Colwill",
+    "Overall": 70,
+    "Position": "CB",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Sarmiento",
+    "Overall": 66,
+    "Position": "CAM",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Steele",
+    "Overall": 65,
+    "Position": "GK",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Enciso",
+    "Overall": 63,
+    "Position": "RW",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Tsoungui",
+    "Overall": 60,
+    "Position": "CB",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Ferguson",
+    "Overall": 59,
+    "Position": "ST",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "O. Offiah",
+    "Overall": 59,
+    "Position": "CB",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Turns",
+    "Overall": 59,
+    "Position": "CB",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Furlong",
+    "Overall": 57,
+    "Position": "LB",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Peupion",
+    "Overall": 56,
+    "Position": "CAM",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. McGill",
+    "Overall": 55,
+    "Position": "GK",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Hinchy",
+    "Overall": 53,
+    "Position": "CM",
+    "Club": "Brighton & Hove Albion",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Kanté",
+    "Overall": 89,
+    "Position": "CDM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Koulibaly",
+    "Overall": 87,
+    "Position": "CB",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Sterling",
+    "Overall": 86,
+    "Position": "LW",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Thiago Silva",
+    "Overall": 86,
+    "Position": "CB",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "É. Mendy",
+    "Overall": 86,
+    "Position": "GK",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "P. Aubameyang",
+    "Overall": 85,
+    "Position": "ST",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Jorginho",
+    "Overall": 85,
+    "Position": "CM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Kovačić",
+    "Overall": 84,
+    "Position": "CM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. James",
+    "Overall": 84,
+    "Position": "RWB",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Havertz",
+    "Overall": 84,
+    "Position": "CAM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Mount",
+    "Overall": 84,
+    "Position": "CAM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. Ziyech",
+    "Overall": 83,
+    "Position": "RW",
+    "Club": "Chelsea",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "B. Chilwell",
+    "Overall": 82,
+    "Position": "LWB",
+    "Club": "Chelsea",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Pulisic",
+    "Overall": 82,
+    "Position": "RM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Azpilicueta",
+    "Overall": 82,
+    "Position": "CB",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Cucurella",
+    "Overall": 81,
+    "Position": "LWB",
+    "Club": "Chelsea",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "D. Zakaria",
+    "Overall": 81,
+    "Position": "CDM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Kepa",
+    "Overall": 80,
+    "Position": "GK",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Gallagher",
+    "Overall": 79,
+    "Position": "CM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "W. Fofana",
+    "Overall": 79,
+    "Position": "CB",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Chalobah",
+    "Overall": 76,
+    "Position": "CB",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Loftus-Cheek",
+    "Overall": 76,
+    "Position": "CAM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Broja",
+    "Overall": 75,
+    "Position": "ST",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Bettinelli",
+    "Overall": 70,
+    "Position": "GK",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "O. Hutchinson",
+    "Overall": 64,
+    "Position": "CAM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Chukwuemeka",
+    "Overall": 64,
+    "Position": "CAM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Castillo",
+    "Overall": 62,
+    "Position": "LM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "D. Williams",
+    "Overall": 61,
+    "Position": "LWB",
+    "Club": "Chelsea",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "L. Hall",
+    "Overall": 60,
+    "Position": "CAM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Brooking",
+    "Overall": 60,
+    "Position": "CB",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Webster",
+    "Overall": 58,
+    "Position": "CAM",
+    "Club": "Chelsea",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Palhinha",
+    "Overall": 81,
+    "Position": "CB",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Leno",
+    "Overall": 80,
+    "Position": "GK",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Mitrović",
+    "Overall": 78,
+    "Position": "ST",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "I. Diop",
+    "Overall": 77,
+    "Position": "CB",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. James",
+    "Overall": 77,
+    "Position": "RM",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Willian",
+    "Overall": 77,
+    "Position": "RM",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Mbabu",
+    "Overall": 77,
+    "Position": "RB",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. Wilson",
+    "Overall": 76,
+    "Position": "CAM",
+    "Club": "Fulham",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Solomon",
+    "Overall": 76,
+    "Position": "CAM",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Vinícius",
+    "Overall": 76,
+    "Position": "ST",
+    "Club": "Fulham",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Andreas Pereira",
+    "Overall": 76,
+    "Position": "CAM",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Rodák",
+    "Overall": 75,
+    "Position": "GK",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. Reed",
+    "Overall": 75,
+    "Position": "CDM",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Adarabioyo",
+    "Overall": 75,
+    "Position": "CB",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Cairney",
+    "Overall": 75,
+    "Position": "CM",
+    "Club": "Fulham",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "B. Decordova-Reid",
+    "Overall": 74,
+    "Position": "RM",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Robinson",
+    "Overall": 74,
+    "Position": "LWB",
+    "Club": "Fulham",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "K. Tete",
+    "Overall": 74,
+    "Position": "CB",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Duffy",
+    "Overall": 74,
+    "Position": "CB",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Chalobah",
+    "Overall": 73,
+    "Position": "CDM",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Kebano",
+    "Overall": 73,
+    "Position": "LM",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Ream",
+    "Overall": 70,
+    "Position": "CB",
+    "Club": "Fulham",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Onomah",
+    "Overall": 69,
+    "Position": "CAM",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Harris",
+    "Overall": 61,
+    "Position": "CAM",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Šekularac",
+    "Overall": 59,
+    "Position": "CAM",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Ablade",
+    "Overall": 58,
+    "Position": "ST",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "G. Wickens",
+    "Overall": 58,
+    "Position": "GK",
+    "Club": "Fulham",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Mee",
+    "Overall": 78,
+    "Position": "CB",
+    "Club": "Brentford",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "T. Strakosha",
+    "Overall": 78,
+    "Position": "GK",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "I. Toney",
+    "Overall": 77,
+    "Position": "ST",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "David Raya",
+    "Overall": 76,
+    "Position": "GK",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Damsgaard",
+    "Overall": 76,
+    "Position": "CAM",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Nørgaard",
+    "Overall": 76,
+    "Position": "CDM",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Hickey",
+    "Overall": 75,
+    "Position": "RB",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Hickey",
+    "Overall": 75,
+    "Position": "RB",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Mbeumo",
+    "Overall": 75,
+    "Position": "CAM",
+    "Club": "Brentford",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Y. Wissa",
+    "Overall": 75,
+    "Position": "LW",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Pinnock",
+    "Overall": 75,
+    "Position": "CB",
+    "Club": "Brentford",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "P. Jansson",
+    "Overall": 75,
+    "Position": "CB",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Pinnock",
+    "Overall": 75,
+    "Position": "CB",
+    "Club": "Brentford",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "R. Henry",
+    "Overall": 75,
+    "Position": "LWB",
+    "Club": "Brentford",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "V. Janelt",
+    "Overall": 74,
+    "Position": "CDM",
+    "Club": "Brentford",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Jensen",
+    "Overall": 74,
+    "Position": "CM",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Onyeka",
+    "Overall": 73,
+    "Position": "CDM",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Dasilva",
+    "Overall": 73,
+    "Position": "CAM",
+    "Club": "Brentford",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Zanka",
+    "Overall": 72,
+    "Position": "CB",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Sergi Canós",
+    "Overall": 72,
+    "Position": "CAM",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Lewis-Potter",
+    "Overall": 71,
+    "Position": "RM",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Baptiste",
+    "Overall": 70,
+    "Position": "CM",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Roerslev",
+    "Overall": 69,
+    "Position": "RWB",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Ghoddos",
+    "Overall": 68,
+    "Position": "CAM",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Goode",
+    "Overall": 67,
+    "Position": "CB",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Y. Yarmoliuk",
+    "Overall": 62,
+    "Position": "RM",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Pressley",
+    "Overall": 61,
+    "Position": "ST",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Cox",
+    "Overall": 60,
+    "Position": "GK",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Gilbert",
+    "Overall": 59,
+    "Position": "LW",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Trevitt",
+    "Overall": 58,
+    "Position": "CAM",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Crama",
+    "Overall": 58,
+    "Position": "CB",
+    "Club": "Brentford",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "W. Zaha",
+    "Overall": 82,
+    "Position": "LW",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Guaita",
+    "Overall": 79,
+    "Position": "GK",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Guéhi",
+    "Overall": 78,
+    "Position": "CB",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Andersen",
+    "Overall": 77,
+    "Position": "CDM",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "O. Edouard",
+    "Overall": 76,
+    "Position": "ST",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Schlupp",
+    "Overall": 76,
+    "Position": "LM",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "E. Eze",
+    "Overall": 76,
+    "Position": "CAM",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Mateta",
+    "Overall": 76,
+    "Position": "ST",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Olise",
+    "Overall": 76,
+    "Position": "CAM",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "T. Mitchell",
+    "Overall": 76,
+    "Position": "LB",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Doucouré",
+    "Overall": 76,
+    "Position": "CDM",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "W. Hughes",
+    "Overall": 75,
+    "Position": "CM",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. McArthur",
+    "Overall": 75,
+    "Position": "CDM",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Ayew",
+    "Overall": 75,
+    "Position": "RW",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Johnstone",
+    "Overall": 75,
+    "Position": "GK",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Clyne",
+    "Overall": 74,
+    "Position": "RB",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Milivojević",
+    "Overall": 74,
+    "Position": "CDM",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Riedewald",
+    "Overall": 74,
+    "Position": "CDM",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Richards",
+    "Overall": 74,
+    "Position": "CB",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Ward",
+    "Overall": 74,
+    "Position": "RB",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Butland",
+    "Overall": 73,
+    "Position": "GK",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Tomkins",
+    "Overall": 72,
+    "Position": "CB",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Ferguson",
+    "Overall": 68,
+    "Position": "CB",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Ebiowei",
+    "Overall": 65,
+    "Position": "LM",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "K. Phillips",
+    "Overall": 58,
+    "Position": "CM",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Adaramola",
+    "Overall": 58,
+    "Position": "LB",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Wells-Morrison",
+    "Overall": 57,
+    "Position": "CM",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "V. Akinwale",
+    "Overall": 56,
+    "Position": "ST",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Whitworth",
+    "Overall": 53,
+    "Position": "GK",
+    "Club": "Crystal Palace",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Martínez",
+    "Overall": 84,
+    "Position": "GK",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Diego Carlos",
+    "Overall": 83,
+    "Position": "CB",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Coutinho",
+    "Overall": 82,
+    "Position": "CAM",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Digne",
+    "Overall": 82,
+    "Position": "LB",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "L. Bailey",
+    "Overall": 80,
+    "Position": "CAM",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "B. Kamara",
+    "Overall": 80,
+    "Position": "CDM",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Buendía",
+    "Overall": 80,
+    "Position": "CAM",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Konsa",
+    "Overall": 79,
+    "Position": "CB",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Cash",
+    "Overall": 79,
+    "Position": "RWB",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Ings",
+    "Overall": 79,
+    "Position": "ST",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. McGinn",
+    "Overall": 79,
+    "Position": "CM",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "O. Watkins",
+    "Overall": 78,
+    "Position": "ST",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Douglas Luiz",
+    "Overall": 78,
+    "Position": "CM",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Guilbert",
+    "Overall": 78,
+    "Position": "RWB",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Mings",
+    "Overall": 78,
+    "Position": "CB",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "L. Augustinsson",
+    "Overall": 77,
+    "Position": "LB",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Bednarek",
+    "Overall": 76,
+    "Position": "CB",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Dendoncker",
+    "Overall": 76,
+    "Position": "CDM",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Sanson",
+    "Overall": 76,
+    "Position": "CM",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Ramsey",
+    "Overall": 75,
+    "Position": "CAM",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Chambers",
+    "Overall": 75,
+    "Position": "CB",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Olsen",
+    "Overall": 75,
+    "Position": "GK",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Ramsey",
+    "Overall": 75,
+    "Position": "CAM",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Young",
+    "Overall": 74,
+    "Position": "CDM",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Steer",
+    "Overall": 71,
+    "Position": "GK",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Archer",
+    "Overall": 70,
+    "Position": "ST",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. O'Reilly",
+    "Overall": 59,
+    "Position": "CAM",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "L. Bogarde",
+    "Overall": 58,
+    "Position": "CB",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Marschall",
+    "Overall": 58,
+    "Position": "GK",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Feeney",
+    "Overall": 57,
+    "Position": "CB",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Swinkels",
+    "Overall": 56,
+    "Position": "CB",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "O. Zych",
+    "Overall": 54,
+    "Position": "GK",
+    "Club": "Aston Villa",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Vardy",
+    "Overall": 85,
+    "Position": "ST",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Y. Tielemans",
+    "Overall": 84,
+    "Position": "CM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "W. Ndidi",
+    "Overall": 84,
+    "Position": "CB",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Ricardo Pereira",
+    "Overall": 83,
+    "Position": "RB",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Maddison",
+    "Overall": 82,
+    "Position": "CAM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. Barnes",
+    "Overall": 80,
+    "Position": "CAM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Evans",
+    "Overall": 79,
+    "Position": "CB",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Castagne",
+    "Overall": 78,
+    "Position": "RWB",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Praet",
+    "Overall": 78,
+    "Position": "CAM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Ç. Söyüncü",
+    "Overall": 78,
+    "Position": "CB",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "W. Faes",
+    "Overall": 77,
+    "Position": "CB",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "P. Daka",
+    "Overall": 77,
+    "Position": "ST",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Iheanacho",
+    "Overall": 77,
+    "Position": "CAM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Justin",
+    "Overall": 76,
+    "Position": "RWB",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Amartey",
+    "Overall": 76,
+    "Position": "CB",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Ayoze Pérez",
+    "Overall": 76,
+    "Position": "RW",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Soumaré",
+    "Overall": 76,
+    "Position": "CM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Thomas",
+    "Overall": 75,
+    "Position": "LB",
+    "Club": "Leicester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "K. Dewsbury-Hall",
+    "Overall": 75,
+    "Position": "CM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "D. Ward",
+    "Overall": 75,
+    "Position": "GK",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Bertrand",
+    "Overall": 74,
+    "Position": "LB",
+    "Club": "Leicester City",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "N. Mendy",
+    "Overall": 74,
+    "Position": "CDM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Iversen",
+    "Overall": 73,
+    "Position": "GK",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Smithies",
+    "Overall": 71,
+    "Position": "GK",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Braybrooke",
+    "Overall": 61,
+    "Position": "CAM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. McAteer",
+    "Overall": 60,
+    "Position": "RM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Maswanhise",
+    "Overall": 60,
+    "Position": "RM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Wanya Marçal",
+    "Overall": 60,
+    "Position": "CAM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Suengchitthawon",
+    "Overall": 60,
+    "Position": "RM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Brunt",
+    "Overall": 55,
+    "Position": "CDM",
+    "Club": "Leicester City",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Neto",
+    "Overall": 81,
+    "Position": "GK",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Senesi",
+    "Overall": 78,
+    "Position": "CB",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "D. Brooks",
+    "Overall": 76,
+    "Position": "CAM",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Lerma",
+    "Overall": 75,
+    "Position": "CDM",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Smith",
+    "Overall": 74,
+    "Position": "RB",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Stephens",
+    "Overall": 74,
+    "Position": "CB",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Christie",
+    "Overall": 74,
+    "Position": "RW",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "L. Cook",
+    "Overall": 74,
+    "Position": "CM",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Kelly",
+    "Overall": 73,
+    "Position": "CB",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Travers",
+    "Overall": 73,
+    "Position": "GK",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Stacey",
+    "Overall": 73,
+    "Position": "RB",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Moore",
+    "Overall": 73,
+    "Position": "ST",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Pearson",
+    "Overall": 73,
+    "Position": "CDM",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Tavernier",
+    "Overall": 72,
+    "Position": "CAM",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Stanislas",
+    "Overall": 72,
+    "Position": "LW",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Rothwell",
+    "Overall": 72,
+    "Position": "RM",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Anthony",
+    "Overall": 72,
+    "Position": "RM",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Lowe",
+    "Overall": 71,
+    "Position": "ST",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Mepham",
+    "Overall": 71,
+    "Position": "CB",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Zemura",
+    "Overall": 70,
+    "Position": "LB",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "E. Marcondes",
+    "Overall": 70,
+    "Position": "CAM",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Dembélé",
+    "Overall": 69,
+    "Position": "ST",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Hill",
+    "Overall": 64,
+    "Position": "CB",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "W. Dennis",
+    "Overall": 58,
+    "Position": "GK",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "O. Bevan",
+    "Overall": 57,
+    "Position": "CB",
+    "Club": "AFC Bournemouth",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Sinisterra",
+    "Overall": 80,
+    "Position": "LW",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "P. Bamford",
+    "Overall": 78,
+    "Position": "ST",
+    "Club": "Leeds United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Rodrigo",
+    "Overall": 77,
+    "Position": "LW",
+    "Club": "Leeds United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Harrison",
+    "Overall": 77,
+    "Position": "LM",
+    "Club": "Leeds United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "R. Kristensen",
+    "Overall": 77,
+    "Position": "RWB",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "I. Meslier",
+    "Overall": 77,
+    "Position": "GK",
+    "Club": "Leeds United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "T. Adams",
+    "Overall": 76,
+    "Position": "CDM",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Diego Llorente",
+    "Overall": 76,
+    "Position": "CB",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Cooper",
+    "Overall": 76,
+    "Position": "CB",
+    "Club": "Leeds United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "P. Struijk",
+    "Overall": 76,
+    "Position": "CB",
+    "Club": "Leeds United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Marc Roca",
+    "Overall": 76,
+    "Position": "CM",
+    "Club": "Leeds United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "R. Koch",
+    "Overall": 76,
+    "Position": "CB",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Junior Firpo",
+    "Overall": 75,
+    "Position": "LWB",
+    "Club": "Leeds United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Klich",
+    "Overall": 74,
+    "Position": "CM",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Aaronson",
+    "Overall": 74,
+    "Position": "CAM",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Forshaw",
+    "Overall": 73,
+    "Position": "CDM",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Gelhardt",
+    "Overall": 72,
+    "Position": "CAM",
+    "Club": "Leeds United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Summerville",
+    "Overall": 69,
+    "Position": "RM",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "W. Gnonto",
+    "Overall": 69,
+    "Position": "CAM",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Drameh",
+    "Overall": 68,
+    "Position": "RWB",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Greenwood",
+    "Overall": 67,
+    "Position": "CAM",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Hjelde",
+    "Overall": 65,
+    "Position": "CB",
+    "Club": "Leeds United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "K. Klaesson",
+    "Overall": 65,
+    "Position": "GK",
+    "Club": "Leeds United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "S. Perkins",
+    "Overall": 58,
+    "Position": "ST",
+    "Club": "Leeds United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "D. Gyabi",
+    "Overall": 57,
+    "Position": "CAM",
+    "Club": "Leeds United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Rice",
+    "Overall": 84,
+    "Position": "CDM",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Lucas Paquetá",
+    "Overall": 82,
+    "Position": "CAM",
+    "Club": "West Ham United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Ł. Fabiański",
+    "Overall": 82,
+    "Position": "GK",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Souček",
+    "Overall": 81,
+    "Position": "CB",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Areola",
+    "Overall": 81,
+    "Position": "GK",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "V. Coufal",
+    "Overall": 80,
+    "Position": "RB",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Aguerd",
+    "Overall": 80,
+    "Position": "CB",
+    "Club": "West Ham United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "K. Zouma",
+    "Overall": 80,
+    "Position": "CB",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Bowen",
+    "Overall": 80,
+    "Position": "LM",
+    "Club": "West Ham United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "G. Scamacca",
+    "Overall": 80,
+    "Position": "ST",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Ogbonna",
+    "Overall": 79,
+    "Position": "CB",
+    "Club": "West Ham United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Lanzini",
+    "Overall": 79,
+    "Position": "CAM",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Pablo Fornals",
+    "Overall": 79,
+    "Position": "CM",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Antonio",
+    "Overall": 79,
+    "Position": "ST",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Dawson",
+    "Overall": 78,
+    "Position": "CB",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Cresswell",
+    "Overall": 78,
+    "Position": "LB",
+    "Club": "West Ham United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Cornet",
+    "Overall": 78,
+    "Position": "ST",
+    "Club": "West Ham United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "S. Benrahma",
+    "Overall": 78,
+    "Position": "LM",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Emerson",
+    "Overall": 77,
+    "Position": "LB",
+    "Club": "West Ham United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "T. Kehrer",
+    "Overall": 76,
+    "Position": "CB",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Johnson",
+    "Overall": 74,
+    "Position": "RB",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Randolph",
+    "Overall": 73,
+    "Position": "GK",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Downes",
+    "Overall": 70,
+    "Position": "CDM",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Coventry",
+    "Overall": 66,
+    "Position": "CM",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. Ashby",
+    "Overall": 62,
+    "Position": "RB",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "P. Ekwah Elimby",
+    "Overall": 59,
+    "Position": "CDM",
+    "Club": "West Ham United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Baptiste",
+    "Overall": 57,
+    "Position": "CB",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Potts",
+    "Overall": 56,
+    "Position": "CDM",
+    "Club": "West Ham United",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Mubama",
+    "Overall": 56,
+    "Position": "ST",
+    "Club": "West Ham United",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Pickford",
+    "Overall": 82,
+    "Position": "GK",
+    "Club": "Everton",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "I. Gueye",
+    "Overall": 82,
+    "Position": "CDM",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Allan",
+    "Overall": 80,
+    "Position": "CDM",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Calvert-Lewin",
+    "Overall": 80,
+    "Position": "ST",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Tarkowski",
+    "Overall": 79,
+    "Position": "CB",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Coady",
+    "Overall": 79,
+    "Position": "CB",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Doucouré",
+    "Overall": 79,
+    "Position": "CDM",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Keane",
+    "Overall": 79,
+    "Position": "CB",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Y. Mina",
+    "Overall": 77,
+    "Position": "CB",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Gray",
+    "Overall": 77,
+    "Position": "RW",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Godfrey",
+    "Overall": 77,
+    "Position": "CB",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Townsend",
+    "Overall": 76,
+    "Position": "RM",
+    "Club": "Everton",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "V. Mykolenko",
+    "Overall": 76,
+    "Position": "LB",
+    "Club": "Everton",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "D. McNeil",
+    "Overall": 76,
+    "Position": "CAM",
+    "Club": "Everton",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "N. Maupay",
+    "Overall": 76,
+    "Position": "ST",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Coleman",
+    "Overall": 76,
+    "Position": "RB",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Gordon",
+    "Overall": 75,
+    "Position": "RM",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Begović",
+    "Overall": 75,
+    "Position": "GK",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Davies",
+    "Overall": 75,
+    "Position": "CM",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Iwobi",
+    "Overall": 75,
+    "Position": "RM",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Davies",
+    "Overall": 75,
+    "Position": "CM",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Rondón",
+    "Overall": 74,
+    "Position": "ST",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Onana",
+    "Overall": 74,
+    "Position": "CDM",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. De Paul",
+    "Overall": 73,
+    "Position": "GK",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Barroso",
+    "Overall": 73,
+    "Position": "CB",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Echeverría",
+    "Overall": 73,
+    "Position": "CDM",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Cuevas",
+    "Overall": 73,
+    "Position": "RW",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Rúben Vinagre",
+    "Overall": 73,
+    "Position": "LM",
+    "Club": "Everton",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "I. Sosa",
+    "Overall": 72,
+    "Position": "CF",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Garner",
+    "Overall": 72,
+    "Position": "CM",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Berríos",
+    "Overall": 69,
+    "Position": "CDM",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Salas",
+    "Overall": 67,
+    "Position": "RWB",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Á. Madrid",
+    "Overall": 67,
+    "Position": "CM",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "F. Campos",
+    "Overall": 66,
+    "Position": "RB",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Oyarzún",
+    "Overall": 66,
+    "Position": "CB",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "N. Patterson",
+    "Overall": 66,
+    "Position": "RB",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Sánchez",
+    "Overall": 66,
+    "Position": "CM",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Valenzuela",
+    "Overall": 66,
+    "Position": "CAM",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Campos",
+    "Overall": 66,
+    "Position": "ST",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. John",
+    "Overall": 64,
+    "Position": "RB",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Ibacache",
+    "Overall": 64,
+    "Position": "LWB",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "F. Saavedra",
+    "Overall": 63,
+    "Position": "CDM",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Jakupović",
+    "Overall": 63,
+    "Position": "GK",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Lonergan",
+    "Overall": 62,
+    "Position": "GK",
+    "Club": "Everton",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "P. Sánchez",
+    "Overall": 61,
+    "Position": "CAM",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "G. Moya",
+    "Overall": 60,
+    "Position": "CAM",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Riquelme",
+    "Overall": 60,
+    "Position": "LB",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "L. Pastrán",
+    "Overall": 60,
+    "Position": "ST",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Peña",
+    "Overall": 59,
+    "Position": "GK",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Medina",
+    "Overall": 58,
+    "Position": "RM",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "P. Campos",
+    "Overall": 58,
+    "Position": "ST",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. López",
+    "Overall": 56,
+    "Position": "CB",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "R. Welch",
+    "Overall": 55,
+    "Position": "CB",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Kirkman",
+    "Overall": 54,
+    "Position": "GK",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Díaz Desidel",
+    "Overall": 54,
+    "Position": "CAM",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Díaz",
+    "Overall": 54,
+    "Position": "CB",
+    "Club": "CD Everton de Viña del Mar",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "I. Price",
+    "Overall": 50,
+    "Position": "CAM",
+    "Club": "Everton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Renan Lodi",
+    "Overall": 80,
+    "Position": "LWB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "R. Freuler",
+    "Overall": 80,
+    "Position": "CM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Henderson",
+    "Overall": 79,
+    "Position": "GK",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Lingard",
+    "Overall": 78,
+    "Position": "CAM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Aurier",
+    "Overall": 78,
+    "Position": "RB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "W. Boly",
+    "Overall": 78,
+    "Position": "CB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Niakhaté",
+    "Overall": 78,
+    "Position": "CB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "C. Kouyaté",
+    "Overall": 77,
+    "Position": "CDM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Awoniyi",
+    "Overall": 77,
+    "Position": "ST",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "E. Dennis",
+    "Overall": 76,
+    "Position": "ST",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Johnson",
+    "Overall": 75,
+    "Position": "RM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "O. Mangala",
+    "Overall": 75,
+    "Position": "CM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Gibbs-White",
+    "Overall": 75,
+    "Position": "CAM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Gibbs-White",
+    "Overall": 75,
+    "Position": "CAM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "W. Hennessey",
+    "Overall": 74,
+    "Position": "GK",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Worrall",
+    "Overall": 74,
+    "Position": "CB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. O'Brien",
+    "Overall": 73,
+    "Position": "CM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "L. Badé",
+    "Overall": 73,
+    "Position": "CB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Yates",
+    "Overall": 73,
+    "Position": "CB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "O. Richards",
+    "Overall": 73,
+    "Position": "LB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "S. McKenna",
+    "Overall": 73,
+    "Position": "CB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "H. Toffolo",
+    "Overall": 72,
+    "Position": "LWB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "S. Cook",
+    "Overall": 72,
+    "Position": "CB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Surridge",
+    "Overall": 71,
+    "Position": "ST",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Williams",
+    "Overall": 71,
+    "Position": "RWB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "G. Biancone",
+    "Overall": 70,
+    "Position": "CB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Colback",
+    "Overall": 69,
+    "Position": "CDM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Cafú",
+    "Overall": 69,
+    "Position": "CDM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Taylor",
+    "Overall": 69,
+    "Position": "ST",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Smith",
+    "Overall": 67,
+    "Position": "GK",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "L. Mbe Soh",
+    "Overall": 66,
+    "Position": "CB",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. Arter",
+    "Overall": 65,
+    "Position": "CDM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "A. Konaté",
+    "Overall": 61,
+    "Position": "CAM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "O. Hammond",
+    "Overall": 54,
+    "Position": "RM",
+    "Club": "Nottingham Forest",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Ward-Prowse",
+    "Overall": 81,
+    "Position": "CM",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "D. Ćaleta-Car",
+    "Overall": 78,
+    "Position": "CB",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "K. Walker-Peters",
+    "Overall": 78,
+    "Position": "RB",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Salisu",
+    "Overall": 77,
+    "Position": "CB",
+    "Club": "Southampton",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "R. Perraud",
+    "Overall": 76,
+    "Position": "CM",
+    "Club": "Southampton",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Elyounoussi",
+    "Overall": 76,
+    "Position": "LM",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Armstrong",
+    "Overall": 76,
+    "Position": "RM",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Adams",
+    "Overall": 76,
+    "Position": "ST",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Livramento",
+    "Overall": 75,
+    "Position": "RB",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Livramento",
+    "Overall": 75,
+    "Position": "RB",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. McCarthy",
+    "Overall": 75,
+    "Position": "GK",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Aribo",
+    "Overall": 75,
+    "Position": "CAM",
+    "Club": "Southampton",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "A. Maitland-Niles",
+    "Overall": 75,
+    "Position": "RWB",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Aribo",
+    "Overall": 75,
+    "Position": "CAM",
+    "Club": "Southampton",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "M. Djenepo",
+    "Overall": 74,
+    "Position": "RM",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Armstrong",
+    "Overall": 74,
+    "Position": "ST",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "I. Diallo",
+    "Overall": 74,
+    "Position": "CDM",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "A. Bella Kotchap",
+    "Overall": 73,
+    "Position": "CB",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Lyanco",
+    "Overall": 72,
+    "Position": "CB",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Walcott",
+    "Overall": 72,
+    "Position": "RM",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "G. Bazunu",
+    "Overall": 70,
+    "Position": "GK",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "W. Caballero",
+    "Overall": 70,
+    "Position": "GK",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Mara",
+    "Overall": 69,
+    "Position": "ST",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "S. Edozie",
+    "Overall": 62,
+    "Position": "RM",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Lavia",
+    "Overall": 62,
+    "Position": "CB",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Juan Larios",
+    "Overall": 59,
+    "Position": "LWB",
+    "Club": "Southampton",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "D. Ballard",
+    "Overall": 59,
+    "Position": "ST",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Finnigan",
+    "Overall": 55,
+    "Position": "CAM",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Payne",
+    "Overall": 54,
+    "Position": "RB",
+    "Club": "Southampton",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Rúben Neves",
+    "Overall": 83,
+    "Position": "CM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Gonçalo Guedes",
+    "Overall": 82,
+    "Position": "ST",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Jiménez",
+    "Overall": 82,
+    "Position": "ST",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "João Moutinho",
+    "Overall": 81,
+    "Position": "CM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "José Sá",
+    "Overall": 81,
+    "Position": "GK",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Nélson Semedo",
+    "Overall": 80,
+    "Position": "RWB",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Matheus Nunes",
+    "Overall": 79,
+    "Position": "CAM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Adama Traoré",
+    "Overall": 79,
+    "Position": "RW",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Jonny",
+    "Overall": 79,
+    "Position": "LWB",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Pedro Neto",
+    "Overall": 78,
+    "Position": "CAM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "S. Kalajdžić",
+    "Overall": 78,
+    "Position": "ST",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Daniel Podence",
+    "Overall": 78,
+    "Position": "CAM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Kilman",
+    "Overall": 77,
+    "Position": "CB",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Hwang Hee Chan",
+    "Overall": 77,
+    "Position": "LW",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "R. Aït Nouri",
+    "Overall": 76,
+    "Position": "LWB",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Diego Costa",
+    "Overall": 76,
+    "Position": "ST",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Collins",
+    "Overall": 75,
+    "Position": "CB",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "N. Collins",
+    "Overall": 75,
+    "Position": "CB",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Toti Gomes",
+    "Overall": 69,
+    "Position": "CB",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "Chiquinho",
+    "Overall": 69,
+    "Position": "RM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "M. Šarkić",
+    "Overall": 68,
+    "Position": "GK",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Ronan",
+    "Overall": 67,
+    "Position": "CAM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Léo Bonatini",
+    "Overall": 67,
+    "Position": "ST",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Y. Mosquera",
+    "Overall": 64,
+    "Position": "CB",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "B. Traoré",
+    "Overall": 64,
+    "Position": "CDM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "L. Matheson",
+    "Overall": 60,
+    "Position": "RB",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "C. Campbell",
+    "Overall": 60,
+    "Position": "CAM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "Hugo Bueno",
+    "Overall": 60,
+    "Position": "LM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "D. Lembikisa",
+    "Overall": 55,
+    "Position": "LM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Left"
+  },
+  {
+    "Name": "J. Hodge",
+    "Overall": 55,
+    "Position": "CAM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "H. Birtwistle",
+    "Overall": 55,
+    "Position": "RWB",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "T. Roberts",
+    "Overall": 55,
+    "Position": "RM",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "J. Smith",
+    "Overall": 54,
+    "Position": "GK",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  },
+  {
+    "Name": "O. Tipton",
+    "Overall": 52,
+    "Position": "CB",
+    "Club": "Wolverhampton Wanderers",
+    "PreferredFoot": "Right"
+  }
+]
