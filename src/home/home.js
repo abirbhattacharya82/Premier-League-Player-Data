@@ -77,14 +77,10 @@ const Home = () => {
                     </select>
                 </div>
                 <div className="select_area">
-                    <label htmlFor="appearances">Minimum Appearances</label>
+                    <label htmlFor="appearances">Preferred Foot</label>
                     <select name="appearances" id="appearances">
-                        <option value="opt1">0-10</option>
-                        <option value="opt2">10-20</option>
-                        <option value="opt3">20-30</option>
-                        <option value="opt4">30-40</option>
-                        <option value="opt5">40-50</option>
-                        <option value="opt6">50-60</option>
+                        <option value="opt1">Left</option>
+                        <option value="opt2">Right</option>
                     </select>
                 </div>
                 <div className="select_area">
