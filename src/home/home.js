@@ -30,7 +30,6 @@ const Home = () => {
     const [position, setPosition] = useState("gk");
     const [appearances, setAppearances] = useState("opt1");
     const [goals, setGoals] = useState("opt1");
-    const [regular, setRegular] = useState(false);
     const [image_name, setImage] = useState("");
 
     return (

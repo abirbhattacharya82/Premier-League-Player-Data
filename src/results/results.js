@@ -1,6 +1,5 @@
 import React from "react";
 import './results.css';
-import { useState } from "react";
 
 const Results = (props) => {
     const db=require('../model/player_stats.json');
