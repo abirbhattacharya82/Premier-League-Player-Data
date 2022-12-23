@@ -65,7 +65,21 @@ const Results = (props) => {
     else if(props.prop[0] === "not"){
         all_players_from_team = db.filter((player) => player.Club === "Nottingham Forest");
     }
-    console.log(all_players_from_team);
+    
+    var players_with_positions = [];
+    if(props.prop[1] === "gk"){
+        players_with_positions = all_players_from_team.filter((player) => player.Position === "GK");
+    }
+    else if(props.prop[1] === "df"){
+        players_with_positions = all_players_from_team.filter((player) => player.Position === "CB" || player.Position === "LB" || player.Position === "RB" || player.Position === "DEF");
+    }
+    else if(props.prop[1] === "mf"){
+        players_with_positions = all_players_from_team.filter((player) => player.Position === "CM" || player.Position === "LM" || player.Position === "RM" || player.Position === "CAM" || player.Position === "CDM" || player.Position === "MID");
+    }
+    else if(props.prop[1] === "fw"){
+        players_with_positions = all_players_from_team.filter((player) => player.Position === "ST" || player.Position === "LW" || player.Position === "RW" || player.Position === "CF" || player.position === "FWD");
+    }
+    console.log(players_with_positions);
 
     return (
         <div className="results">
