@@ -84,12 +84,14 @@ const Home = () => {
                     </select>
                 </div>
                 <div className="select_area">
-                    <label htmlFor="goals">Minimum Goals</label>
+                    <label htmlFor="goals">Overall</label>
                     <select name="goals" id="goals">
-                        <option value="opt1">0-10</option>
-                        <option value="opt2">10-20</option>
-                        <option value="opt3">20-30</option>
-                        <option value="opt4">30-40</option>
+                        <option value="opt1">More than 90</option>
+                        <option value="opt2">90-80</option>
+                        <option value="opt3">80-70</option>
+                        <option value="opt4">70-60</option>
+                        <option value="opt5">60-50</option>
+                        <option value="opt6">Less than 50</option>
                     </select>
                 </div>
                 <button onClick={
